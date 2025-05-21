@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
-    <Name>Hurtownie_ETL</Name>
-    <LastWriteTime>2025-05-17T15:46:19.0639523Z</LastWriteTime>
+    <Name>ETL_crashes_ems</Name>
+    <LastWriteTime>2025-05-21T17:26:00.8145766Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Package.dtsx</Name>
-      <LastWriteTime>2025-05-17T15:46:19.0441757Z</LastWriteTime>
+      <LastWriteTime>2025-05-21T17:33:15.4936107Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
