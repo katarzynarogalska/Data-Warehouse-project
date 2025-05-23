@@ -1,0 +1,9 @@
+CREATE TABLE ContributingFactorsDim(
+Factor_ID INT iDENTITY(1,1) PRIMARY KEY,
+FactorName NVARCHAR(250) NOT NULL
+)
+
+CREATE TABLE VehicleTypesDim(
+Vehicle_ID INT IDENTITY(1,1) PRIMARY KEY,
+VehicleTypeName NVARCHAR(100) NOT NULL
+)

@@ -1,0 +1,9 @@
+CREATE TABLE SpeedLimitsDim (
+    Steet_ID INT IDENTITY(1,1) PRIMARY KEY,
+    StreetName NVARCHAR(100) NOT NULL,
+    SpeedLimit INT NOT NULL,
+	IsSigned NVARCHAR(3) NOT NULL,
+	ValidFrom DATE NOT NULL,
+	ValidTo DATE NULL,
+	IsValid BIT NOT NULL
+);
