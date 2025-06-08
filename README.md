@@ -53,9 +53,10 @@ The reporting layer is implemented in **Power BI**, using DirectQuery to connect
 
 1. **Overview** – KPIs, accident density map, borough comparison
 2. **Crashes Analysis** – temporal and geographic analysis of crashes
-3. **EMS Dispatch Analysis** – response time, call types, severity
-4. **Dispatch Effectiveness** – benchmark analysis vs. 8-min standard
-5. **Crashes vs EMS by Borough** – side-by-side comparisons
+3. **Crashes Contributing Factors** – parts of the day, vehicle types, contributing factors
+4. **EMS Dispatch Analysis** – response time, call types, severity
+5. **Dispatch Effectiveness** – benchmark analysis vs. 8-min standard
+6. **Crashes vs EMS by Borough** – side-by-side comparisons
 
 
 
